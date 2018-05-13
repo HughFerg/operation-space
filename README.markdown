@@ -3,10 +3,10 @@
 Build Locally-
 
   Make sure you have ruby, rails, and bundles installed. Clone and navigate to this repo and type
-  
-    bundle install
 
-    jekyll serve
+    $ bundle install
+
+    $ jekyll serve
 
 Hugh Ferguson 2018
 
