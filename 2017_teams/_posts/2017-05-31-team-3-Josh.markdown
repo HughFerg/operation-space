@@ -6,5 +6,5 @@ layout: 2017_default
 img: JoshHeadshot.jpg
 thumbnail: JoshHeadshot.jpg
 alt: 
-description: descript
+description: Josh will be a Sophomore at Duke University in the Fall, studying both Electrical & Computer Engineering with Economics. He’s operated a nonprofit, a business, and has worked at the Cold Spring Harbor Lab as a RA. Josh’s goal is to do something relating to Space after college.
 ---
