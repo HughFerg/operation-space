@@ -1,0 +1,10 @@
+---
+title: Timothy Nuber
+name: Timothy Nuber
+subtitle: Avionics Lead
+layout: 2017_default
+img: TimNHeadshot.jpg
+thumbnail: TimNHeadshot.jpg
+alt: TimNHeadshot.jpg
+description: Timothy is currently studying Aerospace Engineering at Rutgers University Honors College, where he runs the Space Technology Association.  An avid cosmic explorer, he joined Operation Space to connect with fellow students paving the way to the stars.
+---
