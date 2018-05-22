@@ -446,6 +446,8 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: white;
+    background-image: url(/css/2017_style/img/OSBlackLogoLarge.png);
+    align-content: center;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
