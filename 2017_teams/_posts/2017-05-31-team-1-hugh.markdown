@@ -1,10 +1,10 @@
 ---
 title: Hugh Ferguson
 name: Hugh Ferguson
-subtitle: Business Team, Web Dev
+subtitle: Business Team, Lead Web Dev
 layout: 2017_default
 img: HughMainHeadshot.jpg
 thumbnail: HughMainHeadshot.jpg
 alt: Picture of Name
-description: descript
+description: Hugh is a rising sophmore at Northeastern University studying Computer Science and Finance. 
 ---

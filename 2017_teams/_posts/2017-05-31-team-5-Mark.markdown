@@ -1,10 +1,10 @@
 ---
 title: Mark Johnson
 name: Mark Johnson
-subtitle: Business Team
+subtitle: Design + Structures Lead
 layout: 2017_default
 img: MarkHeadshot.jpg
 thumbnail: MarkHeadshot.jpg
 alt: MarkHeadshot.jpg
-description: descript
+description: Mark is a Mechanical Engineering Junior at Brigham Young University. He is the President of BYU Rocketry and has helped design and build several high powered + two stage rockets that have reached apogees of over 25000ft. He has experience with rocket motor design and mixing propellant for his own rockets, and is excited to work on such a fast paced team on a worthwhile project.
 ---

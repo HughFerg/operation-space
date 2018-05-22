@@ -6,5 +6,5 @@ layout: 2017_default
 img: LukeHeadshot.jpg
 thumbnail: LukeHeadshot.jpg
 alt: LukeHeadshot.jpg
-description: descript
+description: Luke is a sophomore at Duke University majoring in Computer Engineering and Economics. He thinks space is one of the most important elements of our future and has always been interested both in space and the economics surrounding it. He is hoping to make some connections with interesting people who share some of the same ambitions and goals.
 ---

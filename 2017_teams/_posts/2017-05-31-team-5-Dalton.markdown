@@ -1,10 +1,10 @@
 ---
 title: Dalton Alexander
 name: Dalton Alexander
-subtitle: Business Team
+subtitle: Launch and Recovery Lead
 layout: 2017_default
 img: DaltonHeadshot.png
 thumbnail: DaltonHeadshot.png
 alt: DaltonHeadshot.png
-description: descript
+description: Dalton is a junior Mechanical + Aeronautical Engineering student at Clarkson University, where he is the President of the AIAA chapter. He joined Operation Space because he wants to learn about rocketry with a great team. "This is probably the closest thing to being an astronaut as I'll be in my life"
 ---
