@@ -1,0 +1,10 @@
+---
+title: Timothy Winya
+name: Timothy Winya
+subtitle: Business Team
+layout: 2017_default
+img: TimHeadshot.jpg
+thumbnail: TimHeadshot.jpg
+alt: TimHeadshot.jpg
+description: descript
+---

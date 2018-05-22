@@ -1,0 +1,10 @@
+---
+title: Joshua Farahzad
+name: Joshua Farahzad
+subtitle: Founder and Project Lead
+layout: 2017_default
+img: JoshHeadshot.jpg
+thumbnail: JoshHeadshot.jpg
+alt: 
+description: descript
+---

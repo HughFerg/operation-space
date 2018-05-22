@@ -1,0 +1,10 @@
+---
+title: Hugh Ferguson
+name: Hugh Ferguson
+subtitle: Business Team, Web Dev
+layout: 2017_default
+img: HughMainHeadshot.jpg
+thumbnail: HughMainHeadshot.jpg
+alt: Picture of Name
+description: descript
+---

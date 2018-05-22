@@ -1,0 +1,10 @@
+---
+title: Timothy Nuber
+name: Timothy Nuber
+subtitle: Business Team
+layout: 2017_default
+img: TimNHeadshot.jpg
+thumbnail: TimNHeadshot.jpg
+alt: TimNHeadshot.jpg
+description: descript
+---

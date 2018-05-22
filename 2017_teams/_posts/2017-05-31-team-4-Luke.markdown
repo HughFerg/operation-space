@@ -1,0 +1,10 @@
+---
+title: Luke Truitt
+name: Luke Truitt
+subtitle: Business Team
+layout: 2017_default
+img: LukeHeadshot.jpg
+thumbnail: LukeHeadshot.jpg
+alt: LukeHeadshot.jpg
+description: descript
+---
