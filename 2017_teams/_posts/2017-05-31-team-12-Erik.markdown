@@ -1,10 +1,10 @@
 ---
 title: Erik Katzen
 name: Erik Katzen
-subtitle: Technical Team
+subtitle: Systems Integration, Controls, and Simulation
 layout: 2017_default
 img: ErikKHeadshot.jpg
 thumbnail: ErikKHeadshot.jpg
 alt: ErikKHeadshot.jpg
-description: Erik is a Graduate from Hofstra University where he received his BS ME and a concentration in Aeronautical Engineering. He was the President and founder of Hofstra’s American Society of Mechanical Engineers (ASME). He has had 5 internships/Co-Ops with Ripak Aerospace Processing, Lockheed Martin, NASA’s Kennedy Space Center & the Jet Propulsion Laboratory, and United Airlines. He will be starting a full-time position with The Boeing Company accompanied with a MS in Electrical Engineering concentrating in Control Systems at NJIT.
+description: Erik is a Graduate from Hofstra University where he received his BS ME and a concentration in Aeronautical Engineering. He has had internships/Co-Ops with Ripak Aerospace Processing, Lockheed Martin, NASA’s Kennedy Space Center & the Jet Propulsion Laboratory, and United Airlines. He will be starting a full-time position with The Boeing Company accompanied with a MS in Electrical Engineering concentrating in Control Systems at NJIT.
 ---

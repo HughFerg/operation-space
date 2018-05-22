@@ -1,0 +1,10 @@
+---
+title: Chris Romanoski
+name: Chris Romanoski
+subtitle: Technical Team
+layout: 2017_default
+img: ChrisRHeadshot.jpg
+thumbnail: ChrisRHeadshot.jpg
+alt: ChrisRHeadshot.jpg
+description: Chris is a senior in Mechanical Engineering at Vanderbilt University, where he is the president of the NASA Student Launch team. Building off a summer spent interning in propulsion at NASA Marshall, he is anxious for the opportunity to pursue his passion for rocketry with peers from across the country to do something truly extraordinary with Operation Space.
+---
