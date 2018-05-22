@@ -6,5 +6,5 @@ layout: 2017_default
 img: HughMainHeadshot.jpg
 thumbnail: HughMainHeadshot.jpg
 alt: Picture of Name
-description: Hugh is a rising sophmore at Northeastern University studying Computer Science and Finance. 
+description: Hugh is a rising sophmore at Northeastern University's Honors College studying Computer Science and Finance. He is passionate about social and youth entrepreneurship and Co-Founded mission&#58; toothbrush, a nonprofit supplying oral health supplies to underserved families in New York. He joined Operation Space because he is fascinated by physics and wants others to see that massive, significant projects like this don't need the backing of a university or a billion dollar company.
 ---
