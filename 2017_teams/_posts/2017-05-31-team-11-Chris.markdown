@@ -1,7 +1,7 @@
 ---
 title: Chris Romanoski
 name: Chris Romanoski
-subtitle: Technical Team
+subtitle: Co-Design Lead
 layout: 2017_default
 img: ChrisRHeadshot.jpg
 thumbnail: ChrisRHeadshot.jpg

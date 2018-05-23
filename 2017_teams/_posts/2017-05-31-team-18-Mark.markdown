@@ -1,7 +1,7 @@
 ---
 title: Mark Johnson
 name: Mark Johnson
-subtitle: Design Lead
+subtitle: Co-Design Lead
 layout: 2017_default
 img: MarkHeadshot.jpg
 thumbnail: MarkHeadshot.jpg
