@@ -16,11 +16,12 @@
                                 <i class="fa fa-3x"></i>
                             </div>
                         </div>
-                        <img src="../css/2017_style/img/team/{{ post.thumbnail }}" class="img-responsive img-centered" style="max-width: 350px; min-width: 350px; max-height: 370px; min-height: 370px;" alt="../css/2017_style/img/logo-small-transparent.png">
+                        <div class="image-reponsive" style="background-image: url('../css/2017_style/img/team/{{ post.thumbnail }}'); background-size: cover; background-position: center; max-width: 350px; min-width: 350px; max-height: 370px; min-height: 370px;">
+                        </div>
                     </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <p class="text-muted" style="padding: 5px;">{{ post.subtitle }}</p>
                         <p class="text-muted" style="max-height: 375px; min-height: 375px; padding: 5px;">{{ post.description }}</p>
                     </div>
                 </div>
