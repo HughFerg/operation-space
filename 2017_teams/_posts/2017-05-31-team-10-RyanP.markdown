@@ -1,7 +1,7 @@
 ---
 title: Ryan Piracha
 name: Ryan Piracha
-subtitle: Technical Team
+subtitle: Film Team
 layout: 2017_default
 img: RyanPHeadshot.png
 thumbnail: RyanPHeadshot.png

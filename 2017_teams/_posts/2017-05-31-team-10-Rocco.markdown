@@ -1,0 +1,10 @@
+---
+title: Rocco Famiglietti
+name: Rocco Famiglietti
+subtitle: Technical Team
+layout: 2017_default
+img: RoccoHeadshot.jpg
+thumbnail: RoccoHeadshot.jpg
+alt: RoccoHeadshot.jpg
+description: Rocco graduated from Hofstra University this past December with a B.S. in Mechanical Engineering. He is currently working as a design engineer at Curtiss-Wright in Farmingdale. He joined this team because he's always had a passion in aeronautics and astronautics and is honored to have an opportunity to gain experience in these fields.
+---
