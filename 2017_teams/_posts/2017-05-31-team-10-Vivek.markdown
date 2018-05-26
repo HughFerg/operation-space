@@ -1,0 +1,10 @@
+---
+title: Vivek Vidyarthi
+name: Vivek Vidyarthi
+subtitle: Technical Team
+layout: 2017_default
+img: VivekHeadshot.jpg
+thumbnail: VivekHeadshot.jpg
+alt: VivekHeadshot.jpg
+description: Vivek is currently an aerospace engineering undergraduate student at the School of Engineering at Rutgers University. He's involved with STAR, a club at Rutgers, where he works as the programming leaf of the weather balloon club.
+---
