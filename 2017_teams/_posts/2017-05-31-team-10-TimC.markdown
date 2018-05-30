@@ -1,0 +1,10 @@
+---
+title: Tim Cerrie
+name: Tim Cerrie
+subtitle: Technical Team
+layout: 2017_default
+img: TimCHeadshot.jpg
+thumbnail: TimCHeadshot.jpg
+alt: TimCHeadshot.jpg
+description: Tim is entering his senior year as an Aeronautical Engineering major at Clarkson University. He has always been awed and fascinated by space and is very excited to be apart of Operation Space because it is a unique opportunity to be working with intelligent students from all over the country and accomplish something amazing.
+---
