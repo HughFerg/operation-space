@@ -1,7 +1,7 @@
 ---
 title: Keith Corso
 name: Keith Corso
-subtitle: Technical Team
+subtitle: Business Team
 layout: 2017_default
 img: KeithHeadshot.png
 thumbnail: KeithHeadshot.png
