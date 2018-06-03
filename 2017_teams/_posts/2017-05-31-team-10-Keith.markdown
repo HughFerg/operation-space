@@ -1,0 +1,10 @@
+---
+title: Keith Corso
+name: Keith Corso
+subtitle: Technical Team
+layout: 2017_default
+img: KeithHeadshot.png
+thumbnail: KeithHeadshot.png
+alt: KeithHeadshot.png
+description: Keith Corso is a finance major at Northeastern University. He is the President of Northeastern’s Entrepreneurs Club, Investment Analyst at IDEA, and Founder & CEO of BusRight. Keith is excited to prove that with the right people, anything is possible.
+---

@@ -1,0 +1,10 @@
+---
+title: Bharvi M Chavre
+name: Bharvi M Chavre
+subtitle: Business Team
+layout: 2017_default
+img: BharviHeadshot.jpg
+thumbnail: BharviHeadshot.jpg
+alt: BharviHeadshot.jpg
+description: Bharvi is a rising senior at G. W. Hewlett High School. She is the President of the Robotics Club and the business captain of FTC robotics team 7120 Bionica. Bharvi is excited to bring the business skills she learned at robotics to Operation Space. As a part of Operation Space, Bharvi hopes to inspire other teens to reach for the stars (pun intended)!
+---
