@@ -30,6 +30,34 @@
         </div>
     </header>
 
+    <style>
+        #videoBoy {
+            padding-bottom: 56.25%;
+            padding-top: 35px;
+            height: 0;
+            position: relative;
+            overflow: hidden;
+        }
+        #videoBoy iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        nav {
+            width: 100vw;
+        }
+
+        .row {
+            margin: 0 !important;
+        }
+    </style>
+
+    <center id="videoBoy">
+        <iframe class="video" src="https://www.youtube.com/embed/CNJoYU8REt4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen ></iframe>
+    </center>
+
     {% include 2017_data/about.html %}
     {% include 2017_data/apply.html %}
     {% include 2017_data/sponsors.html %}
