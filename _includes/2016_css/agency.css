@@ -244,6 +244,44 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+    width: 100vw;
+}
+
+#videoBoy {
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+#videoBoy iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.row {
+    margin: 0 !important;
+}
+
+#donatePageVideoWrap {
+    padding-bottom: 40%;
+    padding-top: 35px;
+    overflow: hidden;
+    height: 0;
+    position: relative;
+}
+
+#donatePageVideoWrap iframe {
+    top: 0;
+    left: 0;
+    padding-left: 7%;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 .navbar-default .navbar-brand {
