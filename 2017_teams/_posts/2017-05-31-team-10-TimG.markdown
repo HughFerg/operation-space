@@ -1,0 +1,10 @@
+---
+title: Tim Gangon
+name: Tim Gangon
+subtitle: Technical Team
+layout: 2017_default
+img: TimGHeadshot.jpg
+thumbnail: TimGHeadshot.jpg
+alt: TimGHeadshot.jpg
+description: Timothy is a freshman pursuing a BS in Mechanical Engineering at Utah State University.  He is looking to further his understanding of fabrication skills after a decade of various metal working jobs. He is heavily involved in amateur rocketry through NAR as well as Utah State University Rocketry club as fabrication lead.
+---

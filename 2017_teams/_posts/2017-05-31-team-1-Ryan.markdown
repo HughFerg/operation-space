@@ -1,0 +1,10 @@
+---
+title: Ryan Wong
+name: Ryan Wong
+subtitle: Business Team
+layout: 2017_default
+img: RyanHeadshot.jpg
+thumbnail: RyanHeadshot.jpg
+alt: RyanHeadshot.jpg
+description: Ryan is a sophomore at UC Berkeley with an intended major in Business Administration and Data Science. He serves as the Marketing Director for AFX and has consulted on companies such as JanSport. Ryan is extremely excited to help promote Operation Space nationwide and to show how a group of young individuals can come together to tackle such an amazing goal!
+---
