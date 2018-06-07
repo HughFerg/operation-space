@@ -15,7 +15,7 @@ logo: "/css/2016_style/img/icon-large.png"
 
 social:
   name: Operation Space
-  link: "https://m.facebook.com/Operation-Space-597562763936646/"
+  link: "https://www.facebook.com/operationspace1"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -28,7 +28,7 @@ gems:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://m.facebook.com/Operation-Space-597562763936646/
+    url: https://www.facebook.com/operationspace1/
   - title: instagram
     url: https://www.instagram.com/operationspace1/ 
 
