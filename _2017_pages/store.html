@@ -14,7 +14,7 @@ title: Store
         </div>
         <div class="row" style="padding-top: 5%;">
             {% for product in site.categories.products %}
-            <div class="col-md-4">
+            <div class="col-md-4" style="padding-top: 5%;">
                 <center>
                     <a href="{{ product.url | prepend: site.baseurl }}">
                         <div class="image-reponsive" style="background-image: url('../css/2017_style/img/products/{{ product.img }}'); 
