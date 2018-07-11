@@ -92,7 +92,10 @@ h4 {
 }
 
 .img-centered {
-    margin: 0 auto;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 80%;
 }
 
 aside.clients {
@@ -745,7 +748,7 @@ section h3.section-subheading {
     }
 }
 
-aside.clients img {
+aside.clients {
     margin: 50px auto;
 }
 
