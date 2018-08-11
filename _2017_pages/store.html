@@ -3,8 +3,7 @@ layout: store_layout
 permalink: /store              
 title: Store
 ---
-
-<section id="donatePageWrap">
+<section id="donatePageWrap" style="padding-bottom: 0px;">
     <div class="conatiner">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -12,18 +11,18 @@ title: Store
                 <br>
             </div>
         </div>
-        <div class="row" style="padding-top: 5%;">
-            {% for product in site.categories.products %}
-            <div class="col-md-4" style="padding-top: 5%;">
-                <center>
+        <div class="row" style="padding-top: 0%; padding-left: 100px; padding-right: 100px;">
+            <div style="margin: 0 auto; width: 1080px;">
+                {% for product in site.categories.products %}
+                <div class="col-lg-4" style="padding-top: 4%; padding-right: 0px; padding-left: 0px; width: 270px; height: 290px;">
                     <a href="{{ product.url | prepend: site.baseurl }}">
                         <div class="image-reponsive" style="background-image: url('../css/2017_style/img/products/{{ product.img }}'); 
-                        background-size: cover; background-position: center; width: 250px; height: 270px;">
+                        background-size: cover; background-position: center; width: 270px; height: 290px;">
                         </div>
                     </a>
-                </center>
+                </div>
+                {% endfor %}
             </div>
-            {% endfor %}
         </div>
     </div>
 </section>
