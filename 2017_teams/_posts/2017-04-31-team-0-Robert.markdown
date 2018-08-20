@@ -4,7 +4,7 @@ name: Robert DeHate
 subtitle: Propulsion Subcontractor
 layout: 2017_default
 img: amwProxLogo.png    
-thumbnail: amwProxLogo.png
+thumbnail: amwproxLogo.png
 alt: Animal Motor Works
 description: Animal Motor Works
 ---
