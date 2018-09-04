@@ -1,7 +1,7 @@
 ---
 title: Hugh Ferguson
 name: Hugh Ferguson
-subtitle: Web Dev
+subtitle: Web Dev, Business Team
 layout: 2017_default
 img: HughMainHeadshot.jpg
 thumbnail: HughMainHeadshot.jpg
