@@ -270,6 +270,11 @@ fieldset[disabled] .btn-xl.active {
     margin: 0 !important;
 }
 
+#donate {
+    margin-top: 0px; 
+    padding-bottom: 3rem; 
+}
+
 #donatePageVideoWrap {
     padding-bottom: 40%;
     padding-top: 35px;
@@ -1028,6 +1033,31 @@ ul.social-buttons li a:active {
         font-size: 140%;
         opacity: 1; 
     }
+}
+
+#header-container {
+    background-color: #FA2525;
+    height: 250%;
+}
+
+#header-launch {
+    /*
+    position: absolute;
+    */
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    font-size: 190%;
+    color: #ffffff;
+}
+
+.donate-text {
+    font-weight: normal; 
+    text-transform: none;
+    font-size: 145%;
+    line-height: 250%;
+    padding-top: 5%;
 }
 
 ::-moz-selection {
