@@ -1,6 +1,6 @@
 title: Operation Space
 description: > # this means to ignore newlines until "baseurl:"
-  Operation Space 2018 - Together we can inspire the future
+  Operation Space 2019 - Together we can inspire the future
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "operationspace.org" # the base hostname & protocol for your site
 # Build settings
@@ -16,8 +16,6 @@ logo: "/css/2016_style/img/icon-large.png"
 social:
   name: Operation Space
   link: "https://www.facebook.com/operationspace1"
-
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_2016_pages', '_2017_pages']
 
