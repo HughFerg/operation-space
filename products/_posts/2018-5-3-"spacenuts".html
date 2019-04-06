@@ -8,10 +8,10 @@ title: "Shop"
 <title>"Shop"</title>
 
 <section>
-    <div id='product-component-6827ed10035'></div>
+    <div id='product-component-42b0446269b' style="padding-top: 5%;"></div>
     <script type="text/javascript">
     /*<![CDATA[*/
-    
+
     (function () {
       var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
       if (window.ShopifyBuy) {
@@ -23,7 +23,7 @@ title: "Shop"
       } else {
         loadScript();
       }
-    
+
       function loadScript() {
         var script = document.createElement('script');
         script.async = true;
@@ -31,148 +31,147 @@ title: "Shop"
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
         script.onload = ShopifyBuyInit;
       }
-    
+
       function ShopifyBuyInit() {
         var client = ShopifyBuy.buildClient({
           domain: 'operation-space.myshopify.com',
-          apiKey: 'c80f562f12a0c30c64c9a773a3a434e4',
-          appId: '6',
+          storefrontAccessToken: 'c80f562f12a0c30c64c9a773a3a434e4',
         });
-    
+
         ShopifyBuy.UI.onReady(client).then(function (ui) {
           ui.createComponent('product', {
             id: [1029030838329],
-            node: document.getElementById('product-component-6827ed10035'),
+            node: document.getElementById('product-component-42b0446269b'),
             moneyFormat: '%24%7B%7Bamount%7D%7D',
             options: {
+  "product": {
+    "layout": "horizontal",
+    "variantId": "all",
+    "width": "100%",
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "description": true,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
       "product": {
-        "layout": "horizontal",
-        "variantId": "all",
-        "width": "100%",
-        "contents": {
-          "img": false,
-          "imgWithCarousel": true,
-          "variantTitle": false,
-          "description": true,
-          "buttonWithQuantity": true,
-          "button": false,
-          "quantity": false
+        "text-align": "left",
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#fa2525",
+        ":hover": {
+          "background-color": "#e12121"
         },
-        "styles": {
-          "product": {
-            "text-align": "left",
-            "@media (min-width: 601px)": {
-              "max-width": "100%",
-              "margin-left": "0",
-              "margin-bottom": "50px"
-            }
-          },
-          "button": {
-            "background-color": "#fa2525",
-            ":hover": {
-              "background-color": "#e12121"
-            },
-            "border-radius": "0px",
-            ":focus": {
-              "background-color": "#e12121"
-            }
-          },
-          "title": {
-            "font-size": "26px"
-          },
-          "price": {
-            "font-size": "18px"
-          },
-          "compareAt": {
-            "font-size": "15px"
-          }
+        "border-radius": "0px",
+        ":focus": {
+          "background-color": "#e12121"
         }
       },
-      "cart": {
-        "contents": {
-          "button": true
+      "title": {
+        "font-size": "26px"
+      },
+      "price": {
+        "font-size": "18px"
+      },
+      "compareAt": {
+        "font-size": "15px"
+      }
+    }
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#fa2525",
+        ":hover": {
+          "background-color": "#e12121"
         },
-        "styles": {
-          "button": {
-            "background-color": "#fa2525",
-            ":hover": {
-              "background-color": "#e12121"
-            },
-            "border-radius": "0px",
-            ":focus": {
-              "background-color": "#e12121"
-            }
-          },
-          "footer": {
-            "background-color": "#ffffff"
-          }
+        "border-radius": "0px",
+        ":focus": {
+          "background-color": "#e12121"
         }
       },
-      "modalProduct": {
-        "contents": {
-          "img": false,
-          "imgWithCarousel": true,
-          "variantTitle": false,
-          "buttonWithQuantity": true,
-          "button": false,
-          "quantity": false
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#fa2525",
+        ":hover": {
+          "background-color": "#e12121"
         },
-        "styles": {
-          "product": {
-            "@media (min-width: 601px)": {
-              "max-width": "100%",
-              "margin-left": "0px",
-              "margin-bottom": "0px"
-            }
-          },
-          "button": {
-            "background-color": "#fa2525",
-            ":hover": {
-              "background-color": "#e12121"
-            },
-            "border-radius": "0px",
-            ":focus": {
-              "background-color": "#e12121"
-            }
-          }
-        }
-      },
-      "toggle": {
-        "styles": {
-          "toggle": {
-            "background-color": "#fa2525",
-            ":hover": {
-              "background-color": "#e12121"
-            },
-            ":focus": {
-              "background-color": "#e12121"
-            }
-          },
-          "count": {
-            "color": "#ffffff",
-            ":hover": {
-              "color": "#ffffff"
-            }
-          },
-          "iconPath": {
-            "fill": "#ffffff"
-          }
-        }
-      },
-      "productSet": {
-        "styles": {
-          "products": {
-            "@media (min-width: 601px)": {
-              "margin-left": "-20px"
-            }
-          }
+        "border-radius": "0px",
+        ":focus": {
+          "background-color": "#e12121"
         }
       }
     }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#fa2525",
+        ":hover": {
+          "background-color": "#e12121"
+        },
+        ":focus": {
+          "background-color": "#e12121"
+        }
+      },
+      "count": {
+        "color": "#ffffff",
+        ":hover": {
+          "color": "#ffffff"
+        }
+      },
+      "iconPath": {
+        "fill": "#ffffff"
+      }
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
           });
         });
       }
     })();
     /*]]>*/
     </script>
-</section>
+ </section>
