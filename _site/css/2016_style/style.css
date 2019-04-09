@@ -420,7 +420,7 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 40px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 40px;
 }
 
@@ -443,7 +443,7 @@ header .intro-text .intro-heading {
         text-transform: uppercase;
         font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
-        font-weight: 700;
+        font-weight: 600;
         line-height: 75px;
     }
 }
