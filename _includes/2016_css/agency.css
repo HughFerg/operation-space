@@ -251,6 +251,10 @@ fieldset[disabled] .btn-xl.active {
     padding: 5px;
 }
 
+.team-title {
+    padding: 2em;
+}
+
 #videoBoy {
     padding-bottom: 56.25%;
     padding-top: 35px;
