@@ -1,0 +1,10 @@
+---
+title: Hugh Ferguson
+name: Hugh Ferguson
+subtitle: Web Dev Lead, Business Team
+layout: 2017_default
+img: HughMainHeadshot.jpg
+thumbnail: HughMainHeadshot.jpg
+alt: Hugh Ferguson 
+description: Hugh is a sophomore at Northeastern University's Honors College studying Computer Science and economics. He is passionate about social and youth entrepreneurship and Co-Founded mission&#58; toothbrush, a nonprofit supplying oral health supplies to disadvantaged families. He joined Operation Space because he is fascinated by science and physics, and wants to inspire others to tackle abmitious, real life projects. 
+---

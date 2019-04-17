@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head> <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104751267-2"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-104751267-2');
+        </script>
+
+        <!-- donorBox button install -->
+        <script src="https://donorbox.org/install-popup-button.js" type="text/javascript" defer></script>
+    </head>
+
+    {% include 2016_data/head.html %}
+
+    <body id="page-top" class="index">
+
+    {% include 2017_data/header-home.html %}
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">Operation Space<br></div>
+                <div class="intro-lead-in">Together We Can Inspire the Future</div>
+                <div class="intro-lead-in"><br></div>
+                <a href="#about" class="page-scroll btn btn-xl">Learn More</a>
+            </div>
+        </div>
+    </header>
+
+    {% include 2017_data/about.html %}
+    {% include 2017_data/sponsors.html %}
+    {% include 2017_data/donate.html %}
+    {% include 2017_data/press.html %}
+    {% include 2017_data/contact.html %}
+    {% include 2016_data/footer.html %}
+    {% include 2016_data/js.html %}
+
+    </body>
+</html>

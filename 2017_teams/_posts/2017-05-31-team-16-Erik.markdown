@@ -1,0 +1,10 @@
+---
+title: Eric Katzen
+name: Eric Katzen
+subtitle: Systems Integration, Controls, and Simulation Lead
+layout: 2017_default
+img: ErikKHeadshot.jpg
+thumbnail: ErikKHeadshot.jpg
+alt: ErikKHeadshot.jpg
+description: Eric is a Graduate from Hofstra University where he received his BS ME and a concentration in Aeronautical Engineering. He has had internships/Co-Ops with Ripak Aerospace Processing, Lockheed Martin, NASA’s Kennedy Space Center & the Jet Propulsion Laboratory, and United Airlines. He will be starting a full-time position with The Boeing Company accompanied with a MS in Electrical Engineering concentrating in Control Systems at NJIT.
+---

@@ -1,0 +1,10 @@
+---
+title: Daniil Lisus
+name: Daniil Lisus
+subtitle: Technical Team
+layout: 2017_default
+img: DaniilHeadshot.jpg
+thumbnail: DaniilHeadshot.jpg
+alt: DaniilHeadshot.jpg
+description: Daniil Lisus is a fourth-year Mechanical Engineering student at McGill University in Canada. He has been helping build and launch rockets since his first year with the McGill Rocket Team and is very passionate about aerospace. He joined Operation Space to take on a new challenge and help take student led projects to a new level.
+---

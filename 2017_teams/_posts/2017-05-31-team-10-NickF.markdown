@@ -1,0 +1,10 @@
+---
+title: Nicholas Florio
+name: Nicholas Florio
+subtitle: Technical Team
+layout: 2017_default
+img: NickFHeadshot.jpg
+thumbnail: NickFHeadshot.jpg
+alt: Picture of Name
+description: Nick is a rising junior Electrical Engineering Major at Villanova University.  He is originally from Huntington, NY and hopes to use his engineering degree to improve the world, one op-amp at a time. He joined the team since he feels he shares the same passion and drive to innovate and engineer a rocket as his teammates. He is currently the Treasurer and Electrical Lead of Villanova's AIAA and this summer he will be interning in Electronic Systems at Rockwell Collins.
+---

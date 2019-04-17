@@ -1,0 +1,10 @@
+---
+title: Ryan Piracha
+name: Ryan Piracha
+subtitle: Film Team
+layout: 2017_default
+img: RyanPHeadshot.png
+thumbnail: RyanPHeadshot.png
+alt: RyanPHeadshot.png
+description: Ryan Piracha is an award winning animator and editor based in Richmond, Virginia. He has recently completed a Bachelor of Arts degree in Film and Video Studies at George Mason University, and also has a background in STEM as an alumnus of FIRST Robotics. Outside of his work in media, Ryan is passionate about environmental sustainability and music.
+---
