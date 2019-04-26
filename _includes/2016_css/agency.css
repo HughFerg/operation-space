@@ -95,7 +95,7 @@ h4 {
     margin: auto;
     margin-top: 30px;
     margin-bottom: 30px;
-    width: 60%;
+    width: 90%;
 }
 
 aside.clients {
@@ -489,7 +489,8 @@ section h3.section-subheading {
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover {
-    position: absolute;
+
+    position: relative;
     width: 100%;
     height: 100%;
     opacity: 0;
@@ -538,6 +539,13 @@ section h3.section-subheading {
 #speakers .speakers-item .speakers-caption h4 {
     margin: 0;
     text-transform: none;
+}
+
+.headshot-img {
+    background-size: cover; 
+    background-position: center; 
+    width: auto;
+    height: 370px;
 }
 
 /*

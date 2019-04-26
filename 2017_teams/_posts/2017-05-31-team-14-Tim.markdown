@@ -6,5 +6,5 @@ layout: 2017_default
 img: TimHeadshot.jpg
 thumbnail: TimHeadshot.jpg
 alt: TimHeadshot.jpg
-description: Timothy is a rising senior at Rose-Hulman Institute of Technology, where he is studying a double major of Mechanical Engineering and Computer Science with an emphasis on controls, and algorithm applications. Hailing from Columbus, OH, Timothy is exciting to be joining the team to follow his passion for applied aerospace engineering. When not working with the team, Timothy plays a strong game of ping-pong, and will be spending his summer in Indianapolis, IN, working for Raytheon.
+description: Timothy is a rising senior at Rose-Hulman Institute of Technology, where he is studying a double major of Mechanical Engineering and Computer Science with an emphasis on controls, and algorithm applications. Timothy is excited to be joining the team to follow his passion for applied aerospace engineering. When not working with the team, Timothy plays a strong game of ping-pong, and will be spending his summer in Indianapolis, IN, working for Raytheon.
 ---
