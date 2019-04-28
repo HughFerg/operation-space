@@ -11,13 +11,12 @@ title: Store
                 <br>
             </div>
         </div>
-        <div class="row" style="padding-top: 0%; padding-left: 100px; padding-right: 100px;">
-            <div style="margin: 0 auto; width: 1080px;">
+        <div class="row store-row">
+            <div>
                 {% for product in site.categories.products %}
-                <div class="col-lg-4" style="padding-top: 4%; padding-right: 0px; padding-left: 0px; width: 270px; height: 290px;">
+                <div class="col-md-3 product">
                     <a href="{{ product.url | prepend: site.baseurl }}">
-                        <div class="image-reponsive" style="background-image: url('../css/2017_style/img/products/{{ product.img }}'); 
-                        background-size: cover; background-position: center; width: 270px; height: 290px;">
+                        <div class="image-reponsive product-img" style="background-image: url('../css/2017_style/img/products/{{ product.img }}');">
                         </div>
                     </a>
                 </div>
