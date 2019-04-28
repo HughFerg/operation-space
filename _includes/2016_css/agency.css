@@ -993,19 +993,34 @@ ul.social-buttons li a:active {
     opacity: 1;
 }
 
+.store-row {
+    padding-top: 0%; 
+    padding-left: 15em; 
+    padding-right: 15em;
+}
+
 .product {
-    padding-top: 4%; 
     padding-right: 0px; 
     padding-left: 0px; 
-    width: 270px; 
-    height: 290px
 }
 
 .product-img {
     background-size: cover;
     background-position: center; 
-    width: 270px; 
-    height: 290px;
+    width: 100%; 
+    height: 310px;
+}
+
+@media (max-width: 1200px) {
+    .product {
+        width: 50%;
+        padding: 2em;
+    }
+
+    .store-row {
+        padding: 0;
+        align-content: center;
+    }
 }
 
 @media (max-width: 755px) {
