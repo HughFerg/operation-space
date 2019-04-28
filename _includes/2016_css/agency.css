@@ -1036,6 +1036,22 @@ ul.social-buttons li a:active {
     }
 }
 
+@media (max-width: 450px) { 
+    .product {
+        padding: 0;
+        margin: 0 auto;
+        padding-bottom: 2em;
+    }
+    
+    .product-img { 
+        background-size: cover;
+        position: relative;
+        width: 100%; 
+        height: 140px;
+    }
+}
+
+
 @media (max-height: 890px) {
     
     .launch-date-container {

@@ -14,9 +14,9 @@ title: Store
         <div class="row store-row">
             <div>
                 {% for product in site.categories.products %}
-                <div class="col-md-3 product">
+                <div class="col-sm-3 product">
                     <a href="{{ product.url | prepend: site.baseurl }}">
-                        <div class="image-reponsive product-img" style="background-image: url('../css/2017_style/img/products/{{ product.img }}');">
+                        <div class="product-img" style="background-image: url('../css/2017_style/img/products/{{ product.img }}');">
                         </div>
                     </a>
                 </div>
