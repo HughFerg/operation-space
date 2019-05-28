@@ -6,5 +6,5 @@ layout: 2017_default
 img: HughMainHeadshot.jpg
 thumbnail: HughMainHeadshot.jpg
 alt: Hugh Ferguson 
-description: Hugh is a sophomore at Northeastern University's Honors College studying computer science and economics. He is passionate about social entrepreneurship and co-founded mission&#58; toothbrush, a nonprofit supplying oral health supplies to disadvantaged families. He joined Operation Space because he is fascinated by science, physics, and realizing people's potential to achieve . 
+description: Hugh is a sophomore at Northeastern University's Honors College studying computer science and economics. He is passionate about social entrepreneurship and co-founded mission&#58; toothbrush, a nonprofit supplying oral health supplies to disadvantaged families. He joined Operation Space because he is fascinated by science, physics, and realizing people's potential to achieve. Hugh can be reached at hughferguson25@gmail.com. 
 ---

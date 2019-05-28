@@ -6,5 +6,5 @@ layout: 2017_default
 img: saadHeadshot.jpg
 thumbnail: saadHeadshot.jpg
 alt: 
-description: Saad is skilled in systems-level design and optimization of unguided suborbital rocket systems, having previously served as the project manager of Princeton University's SpaceShot team. Saad has also worked at the Georgia Tech Aerospace Systems Design Laboratory. He hopes to lead the team to success, and in the long term, usher in a new era of supersonic commercial air travel. 
+description: Saad is skilled in systems-level design and optimization of unguided suborbital rocket systems, having previously served as the project manager of Princeton University's SpaceShot team. Saad has also worked at the Georgia Tech Aerospace Systems Design Laboratory. He hopes to lead the team to success, and in the long term, usher in a new era of supersonic commercial air travel. Saad can be reached at smirza@princeton.edu.
 ---
