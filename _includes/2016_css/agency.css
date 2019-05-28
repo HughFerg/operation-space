@@ -277,7 +277,7 @@ fieldset[disabled] .btn-xl.active {
 
 #donate {
     margin-top: 0px; 
-    padding-bottom: 3rem; 
+    padding-bottom: 0;
 }
 
 #donatePageVideoWrap {
@@ -685,7 +685,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 50px;
+        margin-bottom: 0px;
         min-height: 100px;
     }
 
@@ -748,7 +748,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px 10px;
+        padding: 0 20px 0px 10px;
     }
 
     .timeline>li .timeline-image {
@@ -762,7 +762,7 @@ section h3.section-subheading {
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
-        padding: 0 10px 20px 20px;
+        padding: 0 10px 0px 20px;
     }
 }
 
@@ -992,6 +992,10 @@ ul.social-buttons li a:active {
     opacity: 1;
 }
 
+.donate-logo {
+    padding-right: 4em;
+}
+
 .donation-form-includes {
     padding-left: 4em
 }
@@ -1056,16 +1060,20 @@ ul.social-buttons li a:active {
     .donate-text {
         font-weight: normal; 
         text-transform: none;
-        font-size: 135%;
+        font-size: 100%;
         line-height: 100%;
         padding-top: 5%;
         max-width: inherit;
     }
 
     .donate-row {
-        padding: 0;
-        margin: 0 auto;
+        padding: 0 !important;
         max-width: 80%;
+        margin: 0 auto;
+    }
+
+    .donate-logo {
+        padding: 0;
     }
 }
 
@@ -1110,10 +1118,11 @@ ul.social-buttons li a:active {
         font-size: 140%;
         opacity: 1; 
     }
+
 }
 
 #header-container {
-    background-color: #FA2525;
+    background-color: #fa2525;
     height: 6rem;
     margin-bottom: 1%;
     font-size: 250%;
