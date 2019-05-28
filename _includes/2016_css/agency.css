@@ -685,7 +685,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         min-height: 100px;
     }
 
@@ -992,6 +992,10 @@ ul.social-buttons li a:active {
     opacity: 1;
 }
 
+.donation-form-includes {
+    padding-left: 4em
+}
+
 .store-row {
     padding-top: 0%; 
     padding-left: 15em; 
@@ -1063,7 +1067,6 @@ ul.social-buttons li a:active {
         margin: 0 auto;
         max-width: 80%;
     }
-
 }
 
 
