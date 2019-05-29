@@ -275,6 +275,11 @@ fieldset[disabled] .btn-xl.active {
     margin: 0 !important;
 }
 
+.scheme-img {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
 #donate {
     margin-top: 0px; 
     padding-bottom: 0;
