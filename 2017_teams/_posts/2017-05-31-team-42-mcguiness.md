@@ -1,7 +1,7 @@
 ---
 title: Noah McGuinness
 name: Noah McGuinness
-subtitle: SpaceShot Team 
+subtitle: Avionics
 layout: 2017_default
 img: noah-m.png
 thumbnail: noah-m.png

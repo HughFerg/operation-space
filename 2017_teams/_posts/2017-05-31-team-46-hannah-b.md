@@ -1,7 +1,7 @@
 ---
 title: Hannah Boubel
 name: Hannah Boubel
-subtitle: West Point 
+subtitle: Ignition Team 
 layout: 2017_default
 img: hannah.png
 thumbnail: hannah.png

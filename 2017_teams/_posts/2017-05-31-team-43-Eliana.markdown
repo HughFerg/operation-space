@@ -1,7 +1,7 @@
 ---
 title: Eliana Berger
 name: Eliana Berger
-subtitle: Business Lead
+subtitle: Business Team
 layout: 2017_default
 img: eBergerHeadshot.jpg
 thumbnail: eBergerHeadshot.jpg

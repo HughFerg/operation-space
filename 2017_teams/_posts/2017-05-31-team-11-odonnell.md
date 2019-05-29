@@ -1,7 +1,7 @@
 ---
 title: Logan O’Donnell
 name: Logan O’Donnell
-subtitle: SpaceShot Team 
+subtitle: Logistics 
 layout: 2017_default
 img: odonnell.jpg
 thumbnail: odonnell.jpg

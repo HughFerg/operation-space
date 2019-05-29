@@ -1,7 +1,7 @@
 ---
 title: Connor Larson
 name: Connor Larson
-subtitle: SpaceShot Team 
+subtitle: Logistics 
 layout: 2017_default
 img: larson.jpeg
 thumbnail: larson.jpeg

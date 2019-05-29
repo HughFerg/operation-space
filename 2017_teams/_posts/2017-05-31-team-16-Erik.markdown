@@ -1,7 +1,7 @@
 ---
 title: Eric Katzen
 name: Eric Katzen
-subtitle: Systems Integration, Controls, and Simulation Lead
+subtitle: Simulations
 layout: 2017_default
 img: ErikKHeadshot.jpg
 thumbnail: ErikKHeadshot.jpg

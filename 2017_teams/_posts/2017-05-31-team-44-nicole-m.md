@@ -1,7 +1,7 @@
 ---
 title: Nicole Meister
 name: Nicole Meister
-subtitle: SpaceShot Team 
+subtitle: Avionics
 layout: 2017_default
 img: nicole-m.jpg
 thumbnail: nicole-m.jpg

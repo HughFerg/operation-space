@@ -1,7 +1,7 @@
 ---
 title: Saad Mirza
 name: Saad Mirza
-subtitle: Design Lead
+subtitle: Design 
 layout: 2017_default
 img: saadHeadshot.jpg
 thumbnail: saadHeadshot.jpg
