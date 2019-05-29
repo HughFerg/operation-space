@@ -1,7 +1,7 @@
 ---
 title: Timothy Wynia
 name: Timothy Wynia
-subtitle: Technical Team
+subtitle: Structures
 layout: 2017_default
 img: TimHeadshot.jpg
 thumbnail: TimHeadshot.jpg

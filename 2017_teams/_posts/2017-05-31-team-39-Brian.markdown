@@ -1,7 +1,7 @@
 ---
 title: Brian Munguia
 name: Brian Munguia
-subtitle: Technical Team
+subtitle: Simulations
 layout: 2017_default
 img: BrianHeadshot.jpg
 thumbnail: BrianHeadshot.jpg

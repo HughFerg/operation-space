@@ -1,7 +1,7 @@
 ---
 title: Jack Kiefer
 name: Jack Kiefer
-subtitle: Technical Team
+subtitle: Simulations
 layout: 2017_default
 img: JackKHeadshot.png
 thumbnail: JackKHeadshot.png

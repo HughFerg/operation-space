@@ -1,7 +1,7 @@
 ---
 title: Stephen Cushner 
 name: Stephen Cushner
-subtitle: Business Team
+subtitle: Business
 layout: 2017_default
 img: StephenHeadshot.jpg
 thumbnail: StephenHeadshot.jpg

@@ -1,7 +1,7 @@
 ---
 title: Kent Takada
 name: Kent Takada
-subtitle: Technical Team
+subtitle: Structures
 layout: 2017_default
 img: KentHeadshot.jpg
 thumbnail: KentHeadshot.jpg

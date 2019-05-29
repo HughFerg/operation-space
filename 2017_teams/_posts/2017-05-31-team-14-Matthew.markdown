@@ -1,7 +1,7 @@
 ---
 title: Matthew Boudreau
 name: Matthew Boudreau
-subtitle: Technical Team
+subtitle: Structures
 layout: 2017_default
 img: MatthewHeadshot.jpg
 thumbnail: MatthewHeadshot.jpg

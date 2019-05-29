@@ -1,7 +1,7 @@
 ---
 title: Tarun Bandemegala
 name: Tarun Bandemegala
-subtitle: Technical Team
+subtitle: Simulations
 layout: 2017_default
 img: TarunHeadshot.jpg
 thumbnail: TarunHeadshot.jpg

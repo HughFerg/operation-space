@@ -1,7 +1,7 @@
 ---
 title: Mohamed Moustafa
 name: Mohamed Moustafa
-subtitle: Technical Team
+subtitle: Simulations
 layout: 2017_default
 img: MohamedHeadshot.jpg
 thumbnail: MohamedHeadshot.jpg

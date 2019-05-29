@@ -1,7 +1,7 @@
 ---
 title: Daniil Lisus
 name: Daniil Lisus
-subtitle: Technical Team
+subtitle: Avionics
 layout: 2017_default
 img: DaniilHeadshot.jpg
 thumbnail: DaniilHeadshot.jpg

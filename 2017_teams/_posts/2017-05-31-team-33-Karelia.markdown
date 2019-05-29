@@ -1,7 +1,7 @@
 ---
 title: Karelia Silvestrini
 name: Karelia Silvestrini
-subtitle: Technical Team
+subtitle: Avionics
 layout: 2017_default
 img: KareliaHeadshot.jpg
 thumbnail: KareliaHeadshot.jpg

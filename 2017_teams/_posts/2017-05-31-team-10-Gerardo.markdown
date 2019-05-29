@@ -1,7 +1,7 @@
 ---
 title: Gerardo Javier Barillas
 name: Gerardo Javier Barillas
-subtitle: Technical Team
+subtitle: Structures
 layout: 2017_default
 img: GerardoHeadshot.jpg
 thumbnail: GerardoHeadshot.jpg

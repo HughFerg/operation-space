@@ -1,7 +1,7 @@
 ---
 title: Emerson Vargas Niño
 name: Emerson Vargas Niño
-subtitle: Technical Team
+subtitle: Structures
 layout: 2017_default
 img: EmersonHeadshot.jpg
 thumbnail: EmersonHeadshot.jpg

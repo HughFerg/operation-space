@@ -1,7 +1,7 @@
 ---
 title: Tim Cerrie
 name: Tim Cerrie
-subtitle: Technical Team
+subtitle: Structures
 layout: 2017_default
 img: TimCHeadshot.jpg
 thumbnail: TimCHeadshot.jpg
