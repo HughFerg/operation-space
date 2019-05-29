@@ -1,7 +1,7 @@
 ---
 title: Nathan Spilker
 name: Nathan Spilker
-subtitle: SpaceShot Team 
+subtitle: Structures 
 layout: 2017_default
 img: nathan.jpg
 thumbnail: nathan.jpg

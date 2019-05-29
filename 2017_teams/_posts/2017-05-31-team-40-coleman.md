@@ -1,7 +1,7 @@
 ---
 title: Coleman Merchant
 name: Coleman Merchant
-subtitle: SpaceShot Team 
+subtitle: Structures
 layout: 2017_default
 img: coleman.png
 thumbnail: coleman.png

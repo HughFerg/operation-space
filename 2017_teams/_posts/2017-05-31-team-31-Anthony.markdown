@@ -1,7 +1,7 @@
 ---
 title: Anthony Parfilko
 name: Anthony Parfilko
-subtitle: Avionics Team
+subtitle: Avionics
 layout: 2017_default
 img: anthonyHeadshot.jpg
 thumbnail: anthonyHeadshot.jpg

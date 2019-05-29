@@ -1,7 +1,7 @@
 ---
 title: Steven Latimer
 name: Steven Latimer
-subtitle: Avionics Team
+subtitle: Avionics
 layout: 2017_default
 img: steveHeadshot.jpg
 thumbnail: steveHeadshot.jpg
