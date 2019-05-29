@@ -255,6 +255,13 @@ fieldset[disabled] .btn-xl.active {
     padding: 2em;
 }
 
+.galleria { 
+    max-width: 700px; 
+    height: 400px; 
+    background: #000;
+    margin: 0 auto;
+}
+
 #videoBoy {
     padding-bottom: 56.25%;
     padding-top: 35px;
@@ -1049,6 +1056,11 @@ ul.social-buttons li a:active {
 }
 
 @media (max-width: 450px) { 
+
+    #about {
+        padding: 0;
+    }
+
     .product {
         padding: 0;
         margin: 0 auto;
