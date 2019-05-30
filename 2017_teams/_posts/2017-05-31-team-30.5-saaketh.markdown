@@ -1,0 +1,10 @@
+---
+title: Saaketh Kanikicharla
+name: Saaketh Kanikicharla
+subtitle: Business
+layout: 2017_default
+img: saaketh.jpg
+thumbnail: saaketh.jpg
+alt: steveHeadshot.jpg
+description: Saaketh is a BS/MS student at NYU Stern’s School of Business majoring in finance and accounting. He has run a company and operated a non profit. His interests include consulting and biotechnology. He will be spending his summer at T3 Trading.
+---
