@@ -1034,6 +1034,11 @@ ul.social-buttons li a:active {
 
 }
 
+.wsj-btn { 
+    background-color: transparent;
+    border: none;
+}
+
 .wsj-article-link {
     color: #000;
     font-size: 170%;
